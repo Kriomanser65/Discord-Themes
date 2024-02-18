@@ -1,0 +1,28 @@
+/**
+ * @name Slate MD b Kriomanser65
+ * @author _Kriomanser65_#6403 / _kriomanser_
+ * @description My first theme for Discord. 
+ * @version 1.0
+ * @source 
+*/
+
+:root 
+{
+  /* Primary Colors */
+  --accent: 3, 102, 214;
+  --link-colour: 48, 144, 255;
+
+  /* Server List */
+  --server-icon-size: 35px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+
+  /* Background Colors */
+  --background-primary: rgba(42, 49, 59, 0.219);
+  --background-secondary: rgba(29, 34, 41, 0.219);
+  --background-floating: rgba(29, 34, 41, 0.219);
+}
+
+/*
+  Place any Theme-specific Custom CSS Below here
+*/
